@@ -1,0 +1,114 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "seasons": "24",
+      "main_character": "Monkey D. Luffy",
+      "genre": "Action, Adventure, Comedy, Drama, Fantasy, Shounen",
+      "thumbnail": "https://images.lanouvellerepublique.fr/image/upload/t_1020w/645514552c14e1f2158b45f8.jpg",
+      "synopsis": "Monkey D. Luffy and his crew of pirates set sail on a grand adventure across the Grand Line, searching for the legendary treasure known as One Piece. Along the way, they encounter powerful foes, make new friends, and uncover the secrets of the world.",
+      "slug": "one-piece"
+    },
+    {
+      "id": 2,
+      "title": "Naruto",
+      "slug": "naruto",
+      "author": "Masashi Kishimoto",
+      "seasons": 9,
+      "main_character": "Naruto Uzumaki",
+      "genre": "Action, Adventure, Super Power, Martial Arts, Shounen",
+      "thumbnail": "https://cdn-uploads.gameblog.fr/img/news/436165_64be6a5c80cb0.webp",
+      "synopsis": "Naruto Uzumaki, a young ninja with a dream of becoming the strongest ninja and earning the title of Hokage, faces numerous challenges and battles in the Hidden Leaf Village. Along the way, he forges strong bonds with his friends and learns valuable life lessons."
+    },
+    {
+      "id": 3,
+      "title": "Attack on Tian",
+      "slug": "attack-on-titan",
+      "author": "Hajime Isayama",
+      "seasons": 4,
+      "main_character": "yassssss",
+      "genre": "Action, Drama, Fantasy, Mystery, Shounen, Super Power",
+      "thumbnail": "https://i0.wp.com/japoncinema.com/wp-content/uploads/2023/04/phpmhompv-1.jpg?fit=752%2C423&ssl=1",
+      "synopsis": "In a world where humanity is on the brink of extinction due to giant humanoid creatures called Titans, Eren Yeager joins the Survey Corps to fight back and uncover the truth behind the Titans' existence. The story explores themes of survival, betrayal, and the mysteries of the Titans."
+    },
+    {
+      "id": 4,
+      "title": "Dragon Ball Z",
+      "slug": "dragon-ball-z",
+      "author": "Akira Toriyama",
+      "seasons": 9,
+      "main_character": "Goku",
+      "genre": "Action, Adventure, Comedy, Martial Arts, Fantasy, Super Power, Shounen",
+      "thumbnail": "https://gaak.fr/wp-content/uploads/2022/06/Dragon-Ball-Z-puissance-final.jpg",
+      "synopsis": "Goku, a Saiyan warrior, embarks on various adventures and battles against powerful foes to protect Earth and the universe. Along the way, he discovers his heritage, forms lifelong friendships, and becomes one of the mightiest warriors in the cosmos."
+    },
+    {
+      "id": 5,
+      "title": "Death Note",
+      "slug": "death-note",
+      "author": "Tsugumi Ohba",
+      "seasons": 1,
+      "main_character": "Light Yagami",
+      "genre": "Mystery, Psychological, Supernatural, Thriller",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/97129a46f2418ffe5a67ec64f49a3038.jpe",
+      "synopsis": "Light Yagami, a high school student, gains the power to kill anyone whose name he writes in a mysterious notebook called the Death Note. As he uses the Death Note to eliminate criminals, he becomes entangled in a cat-and-mouse game with the brilliant detective known as L."
+    },
+    {
+      "id": 6,
+      "author": "Kohei Horikoshi",
+      "title": "My Hero Academia",
+      "slug": "my-hero-academia",
+      "seasons": 6,
+      "main_character": "Izuku Midoriya",
+      "genre": "Action, Comedy, Super Power, School, Shounen",
+      "thumbnail": "https://static.fnac-static.com/multimedia/Images/FD/Comete/155066/CCP_IMG_1200x800/2050590.jpg",
+      "synopsis": "In a world where almost everyone possesses superpowers known as Quirks, Izuku Midoriya is born without one. Determined to become a hero like his idol, All Might, Izuku enrolls in U.A. High School to train and become the world's greatest hero."
+    },
+    {
+      "id": 7,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "slug": "fullmetal-alchemist",
+      "author": "Hiromu Arakawa",
+      "seasons": 1,
+      "main_character": "Edward Elric",
+      "genre": "Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",
+      "thumbnail": "https://www.offshore-festival.fr/wp-content/uploads/2023/02/fullmetal-alchemist-brotherhood-offshorefestival.jpeg",
+      "synopsis": "The story follows brothers Edward and Alphonse Elric, who use alchemy in their quest to find the Philosopher's Stone to restore their bodies after a failed alchemical experiment. Their journey takes them through a world full of political intrigue, dark secrets, and powerful alchemy."
+    },
+    {
+      "id": 8,
+      "title": "Hunter x Hunter",
+      "slug": "hunter-x-hunter",
+      "author": "Yoshihiro Togashi",
+      "seasons": 6,
+      "main_character": "Gon Freecss",
+      "genre": "Action, Adventure, Fantasy, Shounen, Super Power",
+      "thumbnail": "https://static.fnac-static.com/multimedia/Images/FD/Comete/126395/CCP_IMG_1200x800/1649896.jpg",
+      "synopsis": "Gon Freecss embarks on a journey to become a Hunter, a prestigious and elite profession with various opportunities. Along the way, he forms friendships and faces incredible challenges to uncover the mysteries surrounding his absent father and the Hunter Examination."
+    },
+    {
+      "id": 9,
+      "title": "One Punch Man",
+      "slug": "one-punch-man",
+      "author": "ONE",
+      "seasons": 2,
+      "main_character": "Saitama",
+      "genre": "Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural, Seinen",
+      "thumbnail": "https://flxt.tmsimg.com/assets/p12998544_b_h9_aa.jpg",
+      "synopsis": "Saitama, a hero who can defeat any opponent with a single punch, finds himself bored and unfulfilled due to his overwhelming strength. Despite his power, he seeks a worthy adversary to challenge him and bring excitement back into his life."
+    },
+    {
+      "id": 10,
+      "title": "Sword Art Online",
+      "slug": "sword-art-online",
+      "author": "Reki Kawahara",
+      "seasons": 4,
+      "main_character": "Kirito",
+      "genre": "Action, Adventure, Fantasy, Game, Romance",
+      "thumbnail": "https://static.bandainamcoent.eu/high/sword-art-online/sao-last-recollection/00-page-setup/saolr_header_mobile_2.jpg",
+      "synopsis": "In the virtual reality MMORPG game Sword Art Online, players are trapped by the game's creator and must clear all the levels to escape. Kirito, one of the players, sets out on a quest to free everyone and, in the process, forms deep connections with other players."
+    }
+  ]
+}
